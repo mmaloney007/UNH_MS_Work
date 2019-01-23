@@ -1,0 +1,6 @@
+Source-Organization: Harvard Law School Library Innovation Lab
+Organization-Address: 1545 Massachusetts Avenue, Cambridge, MA 02138
+Contact-Name: Library Innovation Lab
+Contact-Email: lil@law.harvard.edu
+External-Description: Cases for Vermont
+Bagging-Date: 2018-09-05
